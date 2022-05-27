@@ -1,5 +1,3 @@
-# React_presupuesto_GastoSemanal_
-
 
 <h4>Instalar dependecias de 'Vite'</h4>
 <p>npm install</p>
