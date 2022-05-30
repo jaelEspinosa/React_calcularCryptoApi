@@ -8,5 +8,9 @@
 
 
 <h3>Descripción</h3>
-<p>Es una app para consultar una api y calcular el valor en cryptomoneda de una moneda 'Real'. He usado styledComponents y Hooks personalizados
-</p>
+
+<p>Es una app para consultar una api y calcular el valor en cryptomoneda de una moneda 'Real'. He usado styledComponents y Hooks personalizados</p>
+
+<p>Para consultar la api he utlizado fetchAPI</p>
+
+<p>Imagen de la app</p>
