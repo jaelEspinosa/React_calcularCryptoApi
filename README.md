@@ -13,5 +13,5 @@
 
 <p>Para consultar la api he utlizado fetchAPI</p>
 
-<p>Imagen de la app</p>
+<p>Imagen de la app. Para ver la app desplegada: https://react-calcular-crypto-api.vercel.app/</p>
 <img  style = " width: 150px; "src = 'https://github.com/jaelEspinosa/React_calcularCryptoApi/blob/master/src/img/crypto.jpg' alt='img app'>
