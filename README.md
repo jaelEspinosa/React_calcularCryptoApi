@@ -14,4 +14,4 @@
 <p>Para consultar la api he utlizado fetchAPI</p>
 
 <p>Imagen de la app</p>
-<img  style = " width: 75px; "src = 'https://github.com/jaelEspinosa/React_calcularCryptoApi/blob/master/src/img/crypto.jpg' alt='img app'>
+<img  style = " width: 150px; "src = 'https://github.com/jaelEspinosa/React_calcularCryptoApi/blob/master/src/img/crypto.jpg' alt='img app'>
